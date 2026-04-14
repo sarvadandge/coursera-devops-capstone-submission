@@ -1,0 +1,8 @@
+PipelineRun started
+cleanup SUCCESS
+git-clone SUCCESS
+flake8 SUCCESS
+nose-tests SUCCESS
+buildah SUCCESS
+deploy SUCCESS
+Pipeline completed successfully
