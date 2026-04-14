@@ -1,0 +1,4 @@
+Deployment: accounts
+Pods: 1 running
+ReplicaSets: 1
+Service: ClusterIP
