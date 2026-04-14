@@ -1,0 +1,2 @@
+DELETE /accounts/1
+Status: 204 NO CONTENT
