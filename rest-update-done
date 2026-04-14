@@ -1,0 +1,3 @@
+PUT /accounts/1
+Status: 200 OK
+Response: {"id":1,"name":"Updated"}
