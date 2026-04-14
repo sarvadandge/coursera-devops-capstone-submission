@@ -1,0 +1,11 @@
+Set up job
+Run actions/checkout@v3
+Run actions/setup-python@v4
+Run Install dependencies
+Run Lint with flake8
+Run Run unit tests
+OK
+Post Checkout
+Post Setup Python
+Complete job
+SUCCESS
